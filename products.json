@@ -1,0 +1,39 @@
+[
+    {
+      "name": "PineApple",
+      "id": 1,
+      "cost": 35.0,
+      "availability": 5,
+      "details": "Imported from Kerala",
+      "category": "Premium",
+      "quantity": 0
+    },
+    {
+      "name": "Coconut",
+      "id": 2,
+      "cost": 50.0,
+      "availability": 8,
+      "details": "Farmed at Selam",
+      "category": "Tamilnadu",
+      "quantity": 0
+    },
+    {
+      "name": "Walnut",
+      "id": 3,
+      "cost": 40.0,
+      "availability": 10,
+      "details": "from Kashmir",
+      "category": "Premium",
+      "quantity": 0
+    },
+    {
+      "name": "Watermelon",
+      "id": 4,
+      "cost": 55.0,
+      "availability": 6,
+      "details": "from Karnataka",
+      "category": "Premium",
+      "quantity": 0
+    }
+  ]
+  
